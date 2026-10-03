@@ -1,0 +1,13 @@
+models/logistic_regression_model.pkl
+
+
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+data/diabetic_data.csv
+
+models/random_forest_model.pkl

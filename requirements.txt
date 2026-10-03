@@ -1,0 +1,10 @@
+```text
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
+matplotlib
+seaborn
+```
